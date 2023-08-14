@@ -1,0 +1,15 @@
+C:\Users\bedon\source\repos\ConsoleIOValidation\bin\Debug\net6.0\ConsoleIOValidation.exe
+C:\Users\bedon\source\repos\ConsoleIOValidation\bin\Debug\net6.0\ConsoleIOValidation.deps.json
+C:\Users\bedon\source\repos\ConsoleIOValidation\bin\Debug\net6.0\ConsoleIOValidation.runtimeconfig.json
+C:\Users\bedon\source\repos\ConsoleIOValidation\bin\Debug\net6.0\ConsoleIOValidation.dll
+C:\Users\bedon\source\repos\ConsoleIOValidation\bin\Debug\net6.0\ConsoleIOValidation.pdb
+C:\Users\bedon\source\repos\ConsoleIOValidation\obj\Debug\net6.0\ConsoleIOValidation.csproj.AssemblyReference.cache
+C:\Users\bedon\source\repos\ConsoleIOValidation\obj\Debug\net6.0\ConsoleIOValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bedon\source\repos\ConsoleIOValidation\obj\Debug\net6.0\ConsoleIOValidation.AssemblyInfoInputs.cache
+C:\Users\bedon\source\repos\ConsoleIOValidation\obj\Debug\net6.0\ConsoleIOValidation.AssemblyInfo.cs
+C:\Users\bedon\source\repos\ConsoleIOValidation\obj\Debug\net6.0\ConsoleIOValidation.csproj.CoreCompileInputs.cache
+C:\Users\bedon\source\repos\ConsoleIOValidation\obj\Debug\net6.0\ConsoleIOValidation.dll
+C:\Users\bedon\source\repos\ConsoleIOValidation\obj\Debug\net6.0\refint\ConsoleIOValidation.dll
+C:\Users\bedon\source\repos\ConsoleIOValidation\obj\Debug\net6.0\ConsoleIOValidation.pdb
+C:\Users\bedon\source\repos\ConsoleIOValidation\obj\Debug\net6.0\ConsoleIOValidation.genruntimeconfig.cache
+C:\Users\bedon\source\repos\ConsoleIOValidation\obj\Debug\net6.0\ref\ConsoleIOValidation.dll
