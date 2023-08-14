@@ -1,5 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+
 
 namespace ConsoleIOValidation
 {
@@ -9,23 +9,33 @@ namespace ConsoleIOValidation
 
         private static void Main(string[] args)
         {
+            AddGames();
 
+            PrintGameSelection();
+
+            int gameIndex = GetSelectedGame();
+
+            string gameName = games[gameIndex];
+
+            PrintGameChoice(gameName);
+
+            Console.ReadKey();
         }
 
         private static void AddGames()
         {
-            Program.games.Add("The Wither 3 - Wild Hunt");
-            Program.games.Add("Baba is you");
-            Program.games.Add("Factorio");
-            Program.games.Add("Cities Skylines");
-            Program.games.Add("Kerbal space program");
+            games.Add("The Wither 3 - Wild Hunt");
+            games.Add("Baba is you");
+            games.Add("Factorio");
+            games.Add("Cities Skylines");
+            games.Add("Kerbal space program");
         }
 
         private static void PrintGameSelection()
         {
-            for(int i = 0; i < Program.games.Count; i++)
+            for(int i = 0; i < games.Count; i++)
             {
-                Console.WriteLine("[" + i + "]: " + Program.games[i]);
+                Console.WriteLine("[" + i + "]: " + games[i]);
             }
         }
 
@@ -43,7 +53,7 @@ namespace ConsoleIOValidation
             return chosenIndex;
         }
 
-        private static void PrintGame(string gameName)
+        private static void PrintGameChoice(string gameName)
         {
             Console.WriteLine();
             Console.WriteLine("So you have chosen \"" + gameName + "\". GLHF :)");
